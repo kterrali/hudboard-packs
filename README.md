@@ -1,6 +1,5 @@
 # 🟧 HudBoard — Content Packs
-
-Monthly content packs for **[HudBoard](https://github.com/Kterrali/hudboard)** — PNG/GIF info panels for Paper 1.21.11+ Minecraft servers.
+ packs for **[HudBoard](https://github.com/Kterrali/hudboard)** — PNG/GIF info panels for Paper 1.21.11+ Minecraft servers.
 
 Each pack is a themed bundle of panels ready to drop into `plugins/HudBoard/panels/`. No plugin update needed.
 
@@ -167,18 +166,6 @@ Maintainer (Kterrali) reviews for:
 - Quality of art
 - YML validity
 - License (must be Apache-2.0 or compatible)
-
----
-
-## 📅 Release schedule
-
-| Month | Pack theme | Status |
-|-------|-----------|--------|
-| October 2026 | Halloween | 📅 Planned |
-| December 2026 | Christmas | 📅 Planned |
-| January 2027 | New Year | 📅 Planned |
-| April 2027 | Spring / Easter | 📅 Planned |
-| Summer 2027 | Summer / Beach | 📅 Planned |
 
 ---
 
