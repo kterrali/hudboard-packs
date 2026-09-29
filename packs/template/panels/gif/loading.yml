@@ -1,0 +1,16 @@
+name: "Loading"
+description: "Animated loading indicator (1x1 GIF, 8 frames)"
+tiles-w: 1
+tiles-h: 1
+permission: ""
+user-placeholders: {}
+
+data-points:
+  loading:
+    tile-x: 0
+    tile-y: 0
+    x: 16
+    y: 60
+    size: 10
+    color: 0xB4B4C8
+    text: "<gray>Loading...</gray>"

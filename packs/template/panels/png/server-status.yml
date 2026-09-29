@@ -1,0 +1,79 @@
+name: "Server Status"
+description: "Static server info panel (2x2 tiles)"
+tiles-w: 2
+tiles-h: 2
+permission: ""
+user-placeholders: {}
+
+data-points:
+  title:
+    tile-x: 0
+    tile-y: 0
+    x: 8
+    y: 18
+    size: 14
+    color: 0xFFD700
+    text: "<gold><bold>SERVER</bold></gold>"
+
+  title2:
+    tile-x: 0
+    tile-y: 0
+    x: 8
+    y: 48
+    size: 14
+    color: 0xFFD700
+    text: "<gold><bold>STATUS</bold></gold>"
+
+  tps-label:
+    tile-x: 1
+    tile-y: 0
+    x: 8
+    y: 18
+    size: 9
+    color: 0x9696A0
+    text: "<gray>TPS</gray>"
+
+  tps-value:
+    tile-x: 1
+    tile-y: 0
+    x: 8
+    y: 36
+    size: 14
+    color: 0x64FF64
+    text: "<green>20.0</green>"
+
+  players-label:
+    tile-x: 0
+    tile-y: 1
+    x: 8
+    y: 12
+    size: 9
+    color: 0x9696A0
+    text: "<gray>Players</gray>"
+
+  players-value:
+    tile-x: 0
+    tile-y: 1
+    x: 8
+    y: 32
+    size: 12
+    color: 0xFFFFFF
+    text: "<white>%server_online%</white>"
+
+  balance-label:
+    tile-x: 1
+    tile-y: 1
+    x: 8
+    y: 12
+    size: 9
+    color: 0x9696A0
+    text: "<gray>Balance</gray>"
+
+  balance-value:
+    tile-x: 1
+    tile-y: 1
+    x: 8
+    y: 32
+    size: 11
+    color: 0x64FF64
+    text: "<green>$%vault_eco_balance%</green>"

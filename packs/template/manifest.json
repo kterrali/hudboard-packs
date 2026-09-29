@@ -1,0 +1,12 @@
+{
+  "name": "Template Pack",
+  "slug": "template",
+  "version": "1.0.0",
+  "hudboard_version": ">=2.7.0",
+  "description": "A starter template showing how packs are structured. Use this as a starting point for your own packs.",
+  "panels": 3,
+  "tags": ["template", "starter", "example"],
+  "author": "Kterrali",
+  "license": "Apache-2.0",
+  "min_paper_version": "1.21.11"
+}

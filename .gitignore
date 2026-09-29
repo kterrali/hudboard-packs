@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Build artifacts (never commit these)
+*.zip
+*.tar.gz
+dist/
+build/

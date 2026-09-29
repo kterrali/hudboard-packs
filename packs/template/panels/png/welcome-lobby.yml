@@ -1,0 +1,34 @@
+name: "Welcome Lobby"
+description: "Static welcome panel with player name (3x1 tiles)"
+tiles-w: 3
+tiles-h: 1
+permission: ""
+user-placeholders: {}
+
+data-points:
+  title:
+    tile-x: 0
+    tile-y: 0
+    x: 8
+    y: 16
+    size: 18
+    color: 0xFFD700
+    text: "<gold><bold>WELCOME</bold></gold>"
+
+  subtitle:
+    tile-x: 0
+    tile-y: 0
+    x: 8
+    y: 56
+    size: 12
+    color: 0xDCDCE6
+    text: "<gray>to the server</gray>"
+
+  player:
+    tile-x: 0
+    tile-y: 0
+    x: 8
+    y: 92
+    size: 10
+    color: 0x78B4FF
+    text: "<aqua>%player_name%</aqua>"
