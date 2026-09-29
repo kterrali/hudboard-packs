@@ -11,7 +11,7 @@ Each pack is a themed bundle of panels ready to drop into `plugins/HudBoard/pane
 |------|-------|--------|----------|
 | [`template`](packs/template/) | Sample template (3 panels) | 3 | v1.0.0 |
 
-More packs coming monthly (Halloween, Christmas, New Year, Summer…).
+More packs coming .
 
 ---
 
