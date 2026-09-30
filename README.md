@@ -9,7 +9,6 @@ Each pack is a themed bundle of panels ready to drop into `plugins/HudBoard/pane
 
 | Pack | Theme | Panels | Released |
 |------|-------|--------|----------|
-| [`template`](packs/template/) | Sample template (3 panels) | 3 | v1.0.0 |
 
 More packs coming .
 
